@@ -1,9 +1,15 @@
 # telco-churn-prediction
+
 *Company*: CODTECH IT SOLUTIONS
+
 *Name*: Chetan
+
 *Inern Id*: CT04WM04
+
 *Domain*: Machine Learning
+
 *Duration*: 4 weeks
+
 *Mentor*: Neela Santosh
 
 ## Project Overview
